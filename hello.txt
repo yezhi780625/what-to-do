@@ -1,1 +1,3 @@
 "conflict test2" 
+Hello
+Conflict Test
